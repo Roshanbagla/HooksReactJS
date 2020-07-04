@@ -1,7 +1,9 @@
 # HooksReactJS
  
-Created a small project using React hooks. The project deployed on: https://master.d39p7gaon763g4.amplifyapp.com/
+Created small projects using React hooks. The project deployed on AWS Amplify.
 
-Digital Clock was deployed on Google Firebase: https://digitalclock-reactjs.web.app/
+1. Digital Clock was deployed on Google Firebase: https://digitalclock-reactjs.web.app/
 
-Simple ReactJS form: https://master.d2zktd2vplw8t6.amplifyapp.com/
+2. Simple ReactJS form: https://master.d2zktd2vplw8t6.amplifyapp.com/
+
+3. Numbers App: https://numbers.d17y0j39vggpxa.amplifyapp.com/
